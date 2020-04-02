@@ -1,0 +1,27 @@
+.Main {
+    width: 400px;
+    height: 400px;
+    margin: 0 auto;
+    border-radius: 8px;
+    border: 2px solid #d2dce8;
+    text-align: center;
+  }
+  
+  .SignInText {
+    color: #475b72;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+    font-size: 23px;
+  }
+    
+  .error p {
+    color : red;
+  }
+  @media (max-width: 600px) {
+    .Main {
+        border-radius: 0px;
+        border : none;
+    }
+    
+  }
+

@@ -1,0 +1,9 @@
+.Logo {
+    padding: 6px;
+    font-size: 18px;
+    font-weight: 600;
+    font-family: 'Pacifico', cursive;
+    letter-spacing: 2px;
+    color: rgba(0,0,0,.6);
+    fill: rgba(0,0,0,.6);
+}

@@ -1,0 +1,50 @@
+.inlineBlock {
+    display : inline-block
+}
+.PullRight {
+    float:right
+}
+.MarginNone {
+    margin :0;
+}
+
+.MarginLSM {
+    margin-left:10px
+}
+.LinkStyle {
+    float:right
+}
+
+.LinkStyle a{
+    cursor: pointer;
+    border-radius: 2px;
+    color: #fff;
+    background: #475b72;
+    box-shadow: 0 0 20px 1px rgba(0, 0, 0, 0.04);
+    font-weight: 700;
+    letter-spacing: 1px;
+    box-sizing: border-box;
+    border: 2px solid rgba(0, 0, 0, 0.02);
+    font-family: 'Ubuntu', sans-serif;
+    width:auto;
+    height:35px;
+    text-decoration: none;
+    padding: 10px;
+    display: inline-block;
+    line-height: 1;
+}
+.CardFooter {
+    float:right;
+}
+.CardFooter div {
+    margin-left: 10px;
+    display: inline-block;
+}
+
+.MarginBSM{
+    margin-bottom: 10px;
+}
+
+.MarginLMD {
+    margin-left:30px;
+}
